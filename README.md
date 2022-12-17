@@ -45,10 +45,6 @@ $ make install
 
 http://localhost
 
-## Tips
-
-- Read this [Makefile](https://github.com/ucan-lab/docker-laravel/blob/main/Makefile).
-- Read this [Wiki](https://github.com/ucan-lab/docker-laravel/wiki).
 
 ## Container structures
 
